@@ -1,0 +1,19 @@
+clear
+;
+C
+C
+C
+C
+C
+C
+C
+C
+C
+welcome to Git By Venugopa
+C;wq
+:wq
+
+
+C
+C
+l 
